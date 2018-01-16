@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "paintjob_duckwick_metallic_scania.mod_kresjah_duckwick.tobj"
+	texture_name : "texture"
+}
