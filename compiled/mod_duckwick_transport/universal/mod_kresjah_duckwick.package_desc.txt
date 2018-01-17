@@ -1,0 +1,7 @@
+DEVELOPMENT NOTE: Currently only available for the standard Scania R model. As of patch 1.30.* it works for all available cabins.
+
+---
+
+Customize your truck with paint jobs for the Duckwick Transport company! Get your truck painted with this one option:
+
+* Duckwick Transport Metallic
